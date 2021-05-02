@@ -1,0 +1,17 @@
+{
+  "name": "typescript-demo",
+  "version": "1.0.0",
+  "description": "Typescript demo",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Prasuna Kaveti",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
